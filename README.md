@@ -25,7 +25,7 @@ A responsive landing page for Tanit Coding School, built with Bootstrap 5. This 
 - Responsive design with `clamp()` and media queries
 
 ## Live Demo
-
+https://transcendent-fairy-5f94ee.netlify.app
 
 ## Installation
 1. Clone the repository: https://github.com/Lokeny2/TCS-Landing-Page
